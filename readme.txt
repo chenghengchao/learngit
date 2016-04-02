@@ -5,3 +5,4 @@ Git tracks changes of files.
 git push -u origin master.
 Creating a new branch is quick and simple.
 git checkout dev.
+edit the read file.
